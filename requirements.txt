@@ -1,0 +1,10 @@
+streamlit
+pandas
+google.generativeai
+serpapi
+pymysql
+plotly.express
+youtube_dl
+fitz
+paddleocr
+git clone https://github.com/PaddlePaddle/PaddleOCR
